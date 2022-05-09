@@ -1,16 +1,13 @@
-### Hi there 👋
+### Whats up 
 
-<!--
-**Holyshitbruh/Holyshitbruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😔 Projects : [Keep yourself safe luau scripthub](https://bit.ly/37qBm8s) 
+- [Wave security DDOS/Web security]([PRIVATE PROJECT])
+- [Website/Skid development] (http://hotemoboy.tk/) (http://nongender.tk/)
+- [Silvia security projects]([PRIVATE PROJECT])
+- [Java expliots]([PRIVATE PROJECT])
+- [Obfuscation methods]([PRIVATE PROJECT])
+- [Roblox game development]([No portfolio yet])
+- [Discord bot devlelopment]([PRIVATE PROJECT])
+- [Discord Selfbot customScripts]([No portfolio yet])
+- Contacts 💀 : [telegram](https://t.me/httpsrip)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
