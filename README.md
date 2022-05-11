@@ -1,13 +1,14 @@
 
 <h2><strong>Projects</strong></h2>
 
-- 😔 Projects : [Keep yourself safe luau scripthub](https://bit.ly/37qBm8s) 
+- 😔
+- Luau [Keep yourself safe luau scripthub](https://bit.ly/37qBm8s) 
 - [Wave security DDOS/Web security]([PRIVATE PROJECT])
 - [Website/Skid development] (http://hotemoboy.tk/) (http://nongender.tk/)
 - [Silvia security projects]([PRIVATE PROJECT])
 - [Java expliots]([PRIVATE PROJECT])
 - [Obfuscation methods]([PRIVATE PROJECT])
-- [Roblox game development](https://www.roblox.com/games/9523092926/PrestonIsWeirdds-Place-Number-2) Current project larp skiddies
+- [Roblox game development](https://www.roblox.com/games/9523092926/PrestonIsWeirdds-Place-Number-2)
 - [Discord bot devlelopment]([PRIVATE PROJECT])
 - [Discord Selfbot customScripts]([No portfolio yet])
 - Contacts 💀 : [telegram](https://t.me/httpsrip)
