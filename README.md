@@ -1,4 +1,3 @@
-### Projects 
 
 <h2><strong>Projects</strong></h2>
 
