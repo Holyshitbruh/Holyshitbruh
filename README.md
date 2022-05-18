@@ -23,7 +23,7 @@
 
 <h2><strong>Stats</strong></h2>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Holyshitbruha&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Holyshitbruh&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Holyshitbruh&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10&hide=css&custom_title=Holyshitbruh%20Most%20Used%20Languages)
+![Top Langs]((https://github-readme-stats.vercel.app/api?username=Holyshitbruh&show_icons=true&theme=dark))
 
