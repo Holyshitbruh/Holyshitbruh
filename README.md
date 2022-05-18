@@ -25,5 +25,5 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Holyshitbruh&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=Holyshitbruh&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Holyshitbruh&layout=compact)
 
