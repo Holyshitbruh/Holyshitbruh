@@ -26,5 +26,4 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Holyshitbruh&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Holyshitbruh&layout=compact&theme=dark&include_all_commits=true&count_private=true)
-
 ![ayo](https://media.discordapp.net/attachments/954931842535018567/964407422112366642/testdf2.gif)
